@@ -8815,11 +8815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectMvc\\Register\\Register.csproj",
+      "projectUniqueName": "C:\\Users\\ngoct\\Login\\Register\\Register.csproj",
       "projectName": "Register",
-      "projectPath": "D:\\ProjectMvc\\Register\\Register.csproj",
+      "projectPath": "C:\\Users\\ngoct\\Login\\Register\\Register.csproj",
       "packagesPath": "C:\\Users\\ngoct\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectMvc\\Register\\obj\\",
+      "outputPath": "C:\\Users\\ngoct\\Login\\Register\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ngoct\\AppData\\Roaming\\NuGet\\NuGet.Config",
